@@ -1,0 +1,13 @@
+/* rule - selector:declaration */
+/* Author - Sarah White 
+    Version - 1.0
+    Date - July 1, 2019
+*/
+body{
+    color: red;
+    font-size: 18px;
+    background-color: lightblue;
+}
+h2{
+    color: blue;
+}
